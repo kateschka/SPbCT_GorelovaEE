@@ -1,0 +1,4 @@
+G:\учёба\2 курс\Системное программирование\Labs\Laba17\Debug\Laba17.vcxprojAssemblyReference.cache
+G:\учёба\2 курс\Системное программирование\Labs\Laba17\Debug\Laba17.exe
+G:\учёба\2 курс\Системное программирование\Labs\Лабораторная 17\Laba17\Debug\Laba17.vcxprojAssemblyReference.cache
+G:\учёба\2 курс\Системное программирование\Labs\Лабораторная 17\Laba17\Debug\Laba17.exe
