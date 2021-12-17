@@ -1,8 +1,0 @@
-﻿  MyForm.cpp
-C:\Users\sovak\source\repos\Project1\Project1\MyForm.h(133,17): error C3861: 'GetTime': identifier not found
-C:\Users\sovak\source\repos\Project1\Project1\MyForm.h(148,23): warning C4018: '<': signed/unsigned mismatch
-C:\Users\sovak\source\repos\Project1\Project1\MyForm.h(160,14): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-C:\Users\sovak\source\repos\Project1\Project1\MyForm.h(177,21): warning C4018: '<': signed/unsigned mismatch
-  Vector.cpp
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Generating Code...
